@@ -1,0 +1,16 @@
+name: satellite-image-ship-detection
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - matplotlib
+  - keras
+  - numpy
+  - pandas
+  - opencv
+  - python=3.7
+  - sklearn
+  - tensorflow
+
